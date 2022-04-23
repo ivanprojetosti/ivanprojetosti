@@ -1,7 +1,7 @@
 Olá Eu sou o Ivan Sena 👋
 
-- 🔭 Hoje eu trabalho com suporte técnico.
-- 🌱 Estou aprendendo html.
+- 🔭 Hoje eu trabalho como suporte técnico e faço Faculdade de Análise e desenvolvimento de sistemas.
+- 🌱 Estou aprendendo Angular.
 - 👯 Procuro oportunidades em projetos web.
 
 <div align="center">
