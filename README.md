@@ -5,7 +5,7 @@
 **Desenvolvedor full stack** · ~3 anos de experiência · **pós-graduação em Engenharia de Software** · foco em produto e SaaS
 
 [![GitHub](https://img.shields.io/badge/GitHub-ivanprojetosti-181717?style=flat-square&logo=github)](https://github.com/ivanprojetosti)
-[![Gmail](https://img.shields.io/badge/Email-contatoivanprojetosti@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contatoivanprojetosti@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-ivanprojetosti%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanprojetosti@gmail.com)
 
 </div>
 
