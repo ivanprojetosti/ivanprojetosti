@@ -48,14 +48,19 @@ Espaço reservado para ideias e repositórios que ainda vão ganhar forma no per
 
 ## GitHub *(estatísticas)*
 
-<!-- Stats públicas: sem count_private (requer instância própria + PAT para repos privados). Doc: https://github.com/anuraghazra/github-readme-stats -->
+<!--
+  A instância pública github-readme-stats.vercel.app está pausada (503). Os cards
+  são SVGs gerados no repositório pela action readme-tools/github-readme-stats-action.
+  Após o primeiro push deste workflow: GitHub → Actions → "Update README GitHub stats cards" → Run workflow.
+  Estatísticas de repos privados: PAT com scope repo em secrets e token na action (ver doc da action).
+-->
 
 <div align="center">
 
 <table>
 <tr>
-<td valign="top"><img width="100%" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=ivanprojetosti&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"></td>
-<td valign="top"><img width="100%" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanprojetosti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"></td>
+<td valign="top"><img width="100%" alt="Estatísticas do GitHub" src="./profile/stats.svg"></td>
+<td valign="top"><img width="100%" alt="Linguagens mais usadas" src="./profile/top-langs.svg"></td>
 </tr>
 </table>
 
