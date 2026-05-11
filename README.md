@@ -40,14 +40,7 @@ Espaço reservado para ideias e repositórios que ainda vão ganhar forma no per
 
 <div align="center">
 
-<img alt="JavaScript" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="TypeScript" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img alt="HTML5" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS3" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Angular" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img alt="Node.js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img alt="PHP" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img alt="Laravel" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+<img alt="Stack: JavaScript, TypeScript, HTML, CSS, Angular, Node.js, PHP, Laravel" src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,php,laravel&perline=8">
 
 </div>
 
@@ -55,10 +48,16 @@ Espaço reservado para ideias e repositórios que ainda vão ganhar forma no per
 
 ## GitHub *(estatísticas)*
 
+<!-- Stats públicas: sem count_private (requer instância própria + PAT para repos privados). Doc: https://github.com/anuraghazra/github-readme-stats -->
+
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ivanprojetosti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
-<img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanprojetosti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+<table>
+<tr>
+<td valign="top"><img width="100%" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=ivanprojetosti&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"></td>
+<td valign="top"><img width="100%" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanprojetosti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"></td>
+</tr>
+</table>
 
 </div>
 
